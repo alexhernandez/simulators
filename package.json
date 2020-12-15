@@ -1,0 +1,15 @@
+{
+  "name": "simulators",
+  "author": "Alex Hernandez",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sim": "node ./index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ora": "^5.1.0",
+    "prompts": "^2.4.0",
+    "yargs": "^16.2.0"
+  }
+}

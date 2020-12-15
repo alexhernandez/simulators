@@ -1,0 +1,1 @@
+{"Pixel 3a API 30-prod-debug":{"key":"Pixel 3a API 30-prod-debug","command":"ENVFILE=.env.prod react-native run-android --variant=prodDebug","os":"android","device":"Pixel_3a_API_30","timestamp":"2020-12-15T23:16:03.310Z"}}
